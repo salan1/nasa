@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MarsRobots</string>
+    <string name="home_message_tapped">%1$s tapped</string>
+</resources>
